@@ -48,4 +48,5 @@ Aplikacje jakie mam/powinienem/chcę mieć
 - [Redis Desktop Manager](https://redisdesktop.com/)
 - [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) - pobieranie kursów z Udemy
 - [Stretchly](https://hovancik.net/stretchly/) - do informowana by się ruszyć, multiplatform
+- [Calibre](https://calibre-ebook.com/) - zarządzanie książkami
 
