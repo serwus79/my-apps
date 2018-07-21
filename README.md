@@ -35,7 +35,6 @@ Aplikacje jakie mam/powinienem/chcę mieć
 - [Total Commander](https://www.ghisler.com/download.htm)
 - [7zip](https://www.7-zip.org/download.html) - archiwa
 - [Dropbox](https://www.dropbox.com/install)
-- [Keepass](https://keepass.info/) - menager haseł
 - [OpenVPN](https://openvpn.net/index.php/open-source/downloads.html)
 
 ## Grafika
@@ -44,6 +43,8 @@ Aplikacje jakie mam/powinienem/chcę mieć
 - [Gimp](https://www.gimp.org/) - bardziej zaawansowany edytor grafik 
 
 ## Inne
+- [Keepass](https://keepass.info/) - menager haseł
+- [Spotify](https://www.spotify.com/pl/download)
 - [Redis Desktop Manager](https://redisdesktop.com/)
 - [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) - pobieranie kursów z Udemy
 - [Stretchly](https://hovancik.net/stretchly/) - do informowana by się ruszyć, multiplatform
