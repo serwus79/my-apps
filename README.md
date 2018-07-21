@@ -16,7 +16,8 @@ Aplikacje jakie mam/powinienem/chcę mieć
 
 ## DB
 - [dbeaver](https://dbeaver.io/download/) - opensource multidatabase (Windows, Mac, Linux)
-- [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) (Windows, duże)
+- [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) (Windows)
+- [SQLite Expert](http://www.sqliteexpert.com/download.html) (Windows)
 
 ## Wersjonowanie kodu
 - [git](https://git-scm.com/) (Windows, Mac, Linux)
@@ -24,9 +25,9 @@ Aplikacje jakie mam/powinienem/chcę mieć
 - [tortoise svn](https://tortoisesvn.net/downloads.html) (Windows)
 
 ## Terminal
-- [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+- [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) (Windows)
 - [ConEmu](https://conemu.github.io/) - zastępuje cmd (Windows)
-- [Ubuntu Windows Subsystem for Linux](https://www.microsoft.com/pl-pl/p/ubuntu/9nblggh4msv6) - (WIndows) aby uruchomić należy w PowerShell (Administrator) uruchomić: `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
+- [Ubuntu Windows Subsystem for Linux](https://www.microsoft.com/pl-pl/p/ubuntu/9nblggh4msv6) - (Windows) aby uruchomić należy w PowerShell (Administrator) uruchomić: `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 
 ## Komunikacja
 - [mattermost](https://about.mattermost.com/community-applications/) - komunikator w pracy
@@ -49,4 +50,5 @@ Aplikacje jakie mam/powinienem/chcę mieć
 - [Udeler](https://github.com/FaisalUmair/udemy-downloader-gui) - pobieranie kursów z Udemy
 - [Stretchly](https://hovancik.net/stretchly/) - do informowana by się ruszyć, multiplatform
 - [Calibre](https://calibre-ebook.com/) - zarządzanie książkami
+- [VLC Media Player](https://www.videolan.org/)
 
