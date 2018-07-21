@@ -8,9 +8,9 @@ Aplikacje jakie mam/powinienem/chcę mieć
 - [Notepad++](https://notepad-plus-plus.org/)
 
 ## Przeglądarki
-- Firefox
-- Opera
-- Chrome
+- [Firefox](https://www.mozilla.org/pl/firefox/)
+- [Opera](https://www.opera.com/pl)
+- [Chrome](https://www.google.pl/chrome/index.html)
 
 
 
